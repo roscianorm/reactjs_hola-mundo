@@ -1,0 +1,23 @@
+Como sacar provecho del curso:
+1. Mirar de principio al fin el curso, elige tu velocidad.
+2. Escribe código y practica, inventa proyectos.
+3. Depurar tus errores, intenta solucionalo, plan B el código adjuntado.
+4. Practica de la comunidad, has preguntas y responde preguntas.
+
+
+
+Qué es react?
+1. Es una librería creada y mantenida por Facebook.
+2. Se utiliza para crear interfaces gráficas.
+3. Es una librería declarativa.
+4. Es SIMPLE(contiene pocos elementos).
+5. Soporta renderizado en el servidor.
+6. Se puede extender fácilmente.
+7. Está basada en componentes.
+
+
+
+Dependecias (Windows):
+1. Git Bash
+2. NodeJS
+3. Editor de código (VS Code)
