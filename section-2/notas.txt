@@ -1,0 +1,4 @@
+Dependecias (Windows):
+1. Git Bash
+2. NodeJS
+3. Editor de código (VS Code)
