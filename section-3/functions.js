@@ -18,7 +18,7 @@ const r = Fn()
 const j = new Fn() // crea un objeto literal de la funcion
 console.log(r) // Chancito feliz
 console.log(j) // Fn { name: 'Charles' }
-console.log(j.__proto___) // { cheese: [Function: addMoreCheese] }
+console.log(j.__proto__) // { cheese: [Function: addMoreCheese] }
 
 // ----------------------------------------------------------------
 console.log('---------------------------')
