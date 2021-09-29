@@ -1,0 +1,15 @@
+Existen varias maneras de importar y exportar modulos en JS, en este curso veremos:
+
+IMPORT
+1. require('pathToFile or libraryName')
+2. import node from 'pathToFile or libraryName': Para hacer uso de este medio de import/export debemos o iniciar un proyecto con nodejs y crear un package.json con la instruccion "type":"module" o cambiar la extension de los archivos de .js a .mjs
+
+EXPORT
+1. export default functionName or variableName
+2. module.export = {
+	functionName or	variableName,
+	functionName or	variableName,
+	functionName or	variableName,
+}
+3. export directly a function or a variable
+4. export {functions and variables}
